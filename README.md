@@ -1,2 +1,2 @@
-# zestance
-[开发中][研究项目]Zestance语音
+# Zestance
+![](https://img.shields.io/badge/项目状态-开发中-9cf.svg?style=flat-square)
