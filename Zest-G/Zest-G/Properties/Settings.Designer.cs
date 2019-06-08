@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Zestance_G.Properties
+namespace Zest_G.Properties
 {
 
 
