@@ -1,7 +1,7 @@
 # Zestance 语音引擎
 `Developed by Industry 107`
 
-![](https://img.shields.io/badge/项目状态-已挂起-ff8000.svg?style=flat-square)
+![](https://img.shields.io/badge/项目状态-运行中-ffccc0.svg?style=flat-square)
 ![](https://img.shields.io/badge/当前版本-%5B不可用%5D-blueviolet.svg?style=flat-square)
 
 ## 项目设定
@@ -18,4 +18,4 @@
 - [190608]开始尝试先编写编辑器*Zest-G*
 - [190909]项目重启  
 
-**当前状态** 已挂起
+**当前状态** 运行中
