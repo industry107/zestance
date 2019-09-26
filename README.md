@@ -10,7 +10,7 @@
 **Zest-G** Zestance引擎工程文件编缉器
 
 ## 开发人员
-[雨纷々](https://github.com/rinscr3003)
+[~~RINSCR~~鸽子](https://github.com/rinscr3003)
 
 ## 项目进程
 - [190602]项目立项
